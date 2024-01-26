@@ -44,7 +44,7 @@ export default function TabletFooter(){
                         </h2>
                         <div className="footer-navigation-item-detail-services">
                             <h3 className="footer-navigation-item-detail-services">
-                                <Link
+                                <Link 
                                     href={serviceCategory.tabletLinkToServiceCategory1}
                                     className="services-list-1">
 
@@ -112,7 +112,7 @@ export default function TabletFooter(){
                 </div>
                 <div className="footer-navigation-item-group-2">
                     <h2 className="footer-navigation-item">
-                        <Link href={menu.linkToMainMenu3} className="footer-navigation-item">
+                        <Link href={processedInfo.callBusiness}className="footer-navigation-item">
 
                             {menu.mainMenu3}
 

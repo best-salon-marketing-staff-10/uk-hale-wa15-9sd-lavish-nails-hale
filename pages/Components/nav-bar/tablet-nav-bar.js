@@ -10,7 +10,7 @@ import { NavDropdown } from 'react-bootstrap';
 import LogoNav from '/pages/Components/logo-nav/logo-nav';
 import { menu } from '/pages/core/info';
 import { serviceCategory } from '/pages/core/info';
-
+import { processedInfo } from '/pages/core/info';
 
 export default function TabletNavBar(){
     return <>
@@ -118,7 +118,7 @@ export default function TabletNavBar(){
                                     </div>
                                 </div>
                                 <div className="nav-bar-main-category">
-                                    <Link href={menu.linkToMainMenu3} legacyBehavior>
+                                    <Link href={processedInfo.callBusiness} legacyBehavior>
                                         <a className="nav-bar-link-main-menu">
                                             {menu.mainMenu3}
                                         </a>
