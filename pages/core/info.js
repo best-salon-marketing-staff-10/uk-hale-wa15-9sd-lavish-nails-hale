@@ -108,7 +108,7 @@ const changedInfo = {
   businessAddressDivisionCode: "TRF",
 
   businessPostCode: "WA15 9SD",
-  
+
   businessPhoneNumber: " 01612226446",
 
   //Website tiệm KO có dấu / ở cuối
@@ -136,7 +136,7 @@ const changedInfo = {
   // Các ảnh của tiệm
   ogImage:"https://lavish-nail-hale.web.app/images/desktop-nail-salon-happy-customer-1.jpg",
   icon:"/icon.jpg",
-  businessLogo:"/logo.jpg",
+  businessLogo:"/logo.png",
 }
 
 const menu = {
@@ -233,12 +233,12 @@ const imageAlt = {
   cusReviewImage3Alt: seoKeyword.seoKeyword3,
   cusReviewImage4Alt: seoKeyword.seoKeyword4,
   cusReviewImage5Alt: seoKeyword.seoKeyword1,
-  
+
   //Thanh Mobile Bottom Nav
   BottomNavButton1IconAlt: seoKeyword.seoKeyword1,
   BottomNavButton2IconAlt: seoKeyword.seoKeyword2,
   BottomNavButton3IconAlt: seoKeyword.seoKeyword3,
-  
+
   //Ảnh Footer
   footerImagePhoneIconAlt: seoKeyword.seoKeyword1,
   footerImageMapPointerIconAlt: seoKeyword.seoKeyword1,
@@ -275,15 +275,15 @@ const imageAlt = {
   mobileCarouselImage1Alt: seoKeyword.seoKeyword8,
   mobileCarouselImage2Alt: seoKeyword.seoKeyword9,
   mobileCarouselImage3Alt: seoKeyword.seoKeyword10,
-  
+
   tabletCarouselImage1Alt: seoKeyword.seoKeyword8,
   tabletCarouselImage2Alt: seoKeyword.seoKeyword9,
   tabletCarouselImage3Alt: seoKeyword.seoKeyword10,
-  
+
   desktopCarouselImage1Alt: seoKeyword.seoKeyword8,
   desktopCarouselImage2Alt: seoKeyword.seoKeyword9,
   desktopCarouselImage3Alt: seoKeyword.seoKeyword10,
-  
+
   LocationImage1Alt: seoKeyword.seoKeyword1,
 
   serviceList1Image1Alt: seoKeyword.seoKeyword7,
@@ -291,31 +291,31 @@ const imageAlt = {
   serviceList1Image3Alt: seoKeyword.seoKeyword7,
   serviceList1Image4Alt: seoKeyword.seoKeyword8,
   serviceList1Image5Alt: seoKeyword.seoKeyword8,
-  
+
   serviceList2Image1Alt: seoKeyword.seoKeyword9,
   serviceList2Image2Alt: seoKeyword.seoKeyword9,
   serviceList2Image3Alt: seoKeyword.seoKeyword9,
   serviceList2Image4Alt: seoKeyword.seoKeyword10,
   serviceList2Image5Alt: seoKeyword.seoKeyword10,
-    
+
   serviceList3Image1Alt: seoKeyword.seoKeyword11,
   serviceList3Image2Alt: seoKeyword.seoKeyword12,
   serviceList3Image3Alt: seoKeyword.seoKeyword13,
   serviceList3Image4Alt: seoKeyword.seoKeyword14,
   serviceList3Image5Alt: seoKeyword.seoKeyword14,
-  
+
   serviceList4Image1Alt: "hair wash" + " " + changedInfo.businessAddressLevel2,
   serviceList4Image2Alt: "hair wash" + " " + changedInfo.businessAddressLevel2,
   serviceList4Image3Alt: "hair wash" + " " + changedInfo.businessAddressLevel2,
   serviceList4Image4Alt: "hair wash" + " " + changedInfo.businessAddressLevel2,
   serviceList4Image5Alt: "hair wash" + " " + changedInfo.businessAddressLevel2,
-  
+
   serviceList5Image1Alt: "nail design" + " " + changedInfo.businessAddressLevel2,
   serviceList5Image2Alt: "nail design" + " " + changedInfo.businessAddressLevel2,
   serviceList5Image3Alt: "nail design" + " " + changedInfo.businessAddressLevel2,
   serviceList5Image4Alt: "nail design" + " " + changedInfo.businessAddressLevel2,
   serviceList5Image5Alt: "nail design" + " " + changedInfo.businessAddressLevel2,
-  
+
   serviceList6Image1Alt: "waxing" + " " + changedInfo.businessAddressLevel2,
   serviceList6Image2Alt: "waxing" + " " + changedInfo.businessAddressLevel2,
   serviceList6Image3Alt: "waxing" + " " + changedInfo.businessAddressLevel2,
@@ -361,7 +361,7 @@ const headerInput = {
 
   metaOgSiteName: changedInfo.businessName,
   metaOgLocale: "en_GB",
-  
+
   metaOgTitle: processedInfo.slogan,
   metaOgImage: changedInfo.ogImage,
   metaOgImageWidth: "1920",
@@ -739,7 +739,7 @@ const images = {
 
   section6Image1: "/images/nail-extension-2.jpg",
 
-  section7Image1: "/images/nail-extension-3-1.jpg",
+  section7Image1: "/images/nail-extension-3.jpg",
   section7Image2: "/images/nail-extension-4.jpg",
 
   LocationImage1: "/images/nail-extension-11.jpg",
@@ -747,7 +747,7 @@ const images = {
   serviceList1Image1: "/images/nail-extension-5.jpg",
   serviceList1Image2: "/images/nail-extension-6.jpg",
   serviceList1Image3: "/images/nail-extension-7.jpg",
-  serviceList1Image4: "/images/nail-extension-8.jpg",
+  serviceList1Image4: "/images/nail-extension-8-2.jpg",
   serviceList1Image5: "/images/nail-extension-9.jpg",
 
   serviceList2Image1: "/images/gel-nails-shellac-nails-1.jpg",
