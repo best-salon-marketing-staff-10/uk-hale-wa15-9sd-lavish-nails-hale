@@ -17,7 +17,7 @@ export default function desktopTopBar(){
                 </Link>
                     <div className="top-bar-item-spacer">
                     </div>
-                <Link href={processedInfo.callBusiness} legacyBehavior>
+                <Link href={menu.linkToMainMenu3} legacyBehavior>
                     <div className="top-bar-item-right">
                         BOOK NOW
                     </div>

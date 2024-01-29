@@ -118,7 +118,7 @@ export default function MobileNavBar(){
                                     </div>
                                 </div>
                                 <div className="nav-bar-main-category">
-                                    <Link href={processedInfo.callBusiness} legacyBehavior>
+                                    <Link href={menu.linkToMainMenu3} legacyBehavior>
                                         <a className="nav-bar-link-main-menu">
                                             {menu.mainMenu3}
                                         </a>

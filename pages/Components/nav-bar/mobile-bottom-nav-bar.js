@@ -40,7 +40,7 @@ export default function MobileBottomNavBar(){
                         </div>
 
                     </Link>
-                    <Link href={processedInfo.callBusiness}className="mobile-bottom-nav-bar-link-a">
+                    <Link href={menu.linkToMainMenu3}className="mobile-bottom-nav-bar-link-a">
 
                         <div className="mobile-bottom-nav-bar-contact-us">
                             <div>

@@ -134,7 +134,7 @@ export default function DesktopNavBar(){
                                     </div>
                                 </div>
                                 <h2 className="nav-bar-main-category">
-                                    <Link href={processedInfo.callBusiness}className="nav-bar-link-main-menu">
+                                    <Link href={menu.linkToMainMenu3}className="nav-bar-link-main-menu">
 
                                         {menu.mainMenu3}
 

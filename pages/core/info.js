@@ -117,7 +117,7 @@ const changedInfo = {
   //
   linkBookingMap: "",
   //
-  linkBookingApp: "",
+  linkBookingApp: "https://bit.ly/3uepv91",
   
   linkToMap: "https://maps.app.goo.gl/8KBBKp5TbdRMSXLx7",
 
