@@ -117,7 +117,7 @@ const changedInfo = {
   //
   linkBookingMap: "",
   //
-  linkBookingApp: "https://bit.ly/3uepv91",
+  linkBookingApp: "https://bit.ly/4ahaPW7",
   
   linkToMap: "https://maps.app.goo.gl/8KBBKp5TbdRMSXLx7",
 
@@ -130,7 +130,7 @@ const changedInfo = {
   metaGoogleSiteVerification: "qnij4LzYIxd0ns7ww7gjQ2f9USw-fOXSH_LU8dN-5Uk",
 
   //iframe map
-  //Mở Google Maps, search tên tiệm, bấm nút chia sẻ, qua mục Embed a map là thấy, chỉ lấy phần link https    
+  //Mở Google Maps, search tên tiệm, bấm nút chia sẻ, qua mục Embed a map là thấy, chỉ lấy phần link https
   iframeMapLink: "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d500.35559064434324!2d-2.3461851227712183!3d53.377157974488384!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x487badb5c0e7d785%3A0x9dcdedfed1b3816f!2sLavish%20Nails%20%26%20Spa!5e0!3m2!1sen!2sus!4v1706173622623!5m2!1sen!2sus",
 
   // Các ảnh của tiệm
@@ -199,7 +199,7 @@ const seoInfo = {
   serviceKeyword4: "manicure",
   serviceKeyword5: "pedicure",
 
-  localKeyword1: changedInfo.businessAddressLevel2,
+  localKeyword1: changedInfo.businessAddressLevel2 + ", Altrincham",
   localKeyword2: changedInfo.businessAddressLevel3,
 }
 
@@ -1076,7 +1076,7 @@ const images = {
 
     service47: "Infill Colour Powder",
     service47Time: "45 mins",
-    service47Price: "38",
+    service47Price: "35",
     service47Description: "",
 
     service48: "Take off BIAB and Redone a Newset",
@@ -1219,7 +1219,6 @@ const images = {
     service23Time: "1 hr 10 mins",
     service23Price: "56",
     service235Description: "Manicure includes massage, cuticle, shaping, file, polish and moisturiser. Pedicure includes scrub, dead skin, cuticle, massage, moisturise, shape, file and polish.",
-
   };
   
   const serviceList3 = {

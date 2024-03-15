@@ -7,7 +7,6 @@ export default function desktopTopBar(){
     return <>
         <div className="top-bar-wrapper">
             <div>
-
             </div>
             <div className="top-bar">
                 <Link href={processedInfo.callBusiness} legacyBehavior>
@@ -22,7 +21,7 @@ export default function desktopTopBar(){
                         BOOK NOW
                     </div>
                 </Link>
-            </div>  
+            </div>
         </div>
     </>;
 }
