@@ -112,7 +112,7 @@ const changedInfo = {
   businessPhoneNumber: " 01612226446",
 
   //Website tiệm KO có dấu / ở cuối
-  businessWebsite: "https://lavish-nail-hale.web.app",
+  businessWebsite: "https://lavish-nails-hale.web.app/",
 
   //
   linkBookingMap: "",
@@ -134,7 +134,7 @@ const changedInfo = {
   iframeMapLink: "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d500.35559064434324!2d-2.3461851227712183!3d53.377157974488384!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x487badb5c0e7d785%3A0x9dcdedfed1b3816f!2sLavish%20Nails%20%26%20Spa!5e0!3m2!1sen!2sus!4v1706173622623!5m2!1sen!2sus",
 
   // Các ảnh của tiệm
-  ogImage:"https://lavish-nail-hale.web.app/images/desktop-nail-salon-happy-customer-1.jpg",
+  ogImage:"https://lavish-nails-hale.web.app/images/desktop-nail-salon-happy-customer-1.jpg",
   icon:"/icon.jpg",
   businessLogo:"/logo.png",
 }

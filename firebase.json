@@ -1,6 +1,6 @@
 {
   "hosting": {
-    "site": "lavish-nail-hale",
+    "site": "lavish-nails-hale",
     "public": "out",
     "ignore": [
       "firebase.json",
