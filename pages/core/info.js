@@ -117,7 +117,7 @@ const changedInfo = {
   //
   linkBookingMap: "",
   //
-  linkBookingApp: "https://bit.ly/4ahaPW7",
+  linkBookingApp: "https://joybookings.com/lavishnailsandspa/booking",
   
   linkToMap: "https://maps.app.goo.gl/8KBBKp5TbdRMSXLx7",
 
