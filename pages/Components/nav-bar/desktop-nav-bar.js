@@ -125,9 +125,7 @@ export default function DesktopNavBar(){
                                                 <Link
                                                     href={serviceCategory.desktopLinkToServiceCategory7}
                                                     className="nav-bar-link-service-category">
-
                                                     {serviceCategory.serviceCategory7}
-
                                                 </Link>
                                             </h3>
                                         </div> 
